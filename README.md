@@ -1,2 +1,1 @@
-# repositorio.one
-Config files for my GitHub profile.
+Crud - Site que possibilita o cadastro e clientes, a edição, visualização e exclução do cadastro. É necessario sempre atualizar ele manualmente, pois pode acontencer de após uma ação não ter mudaça alguma.
